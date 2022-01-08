@@ -25,6 +25,7 @@ The repository contains –
 * An output – Synthetic energy data, an excel file with annotation “Synthetic_energydata.xls” obtained from the execution of TimevariantGAN.
 
 To implement the code, download the energy dataset 'energy_data.csv','TimevariantGAN.ipynb' and execute using Google colab, jupyternotebook and IDE of your choice.
+
 System/technological requirement-
 * Tensorflow- 1.15.0
 * pandas- 0.25.1
