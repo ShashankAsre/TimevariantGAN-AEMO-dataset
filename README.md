@@ -27,6 +27,7 @@ Markup : The repository contains –
 
 To implement the code, download the energy dataset 'energy_data.csv','TimevariantGAN.ipynb' and execute using Google colab, jupyternotebook and IDE of your choice.
 System/technological requirement-
+
 Markup:
 *Tensorflow- 1.15.0
 *pandas- 0.25.1
