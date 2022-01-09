@@ -22,7 +22,7 @@ We have perform below modification to execute the implementation of timeseries g
 The repository contains –
 * One ‘.ipynb’ file named as “TimevariantGAN.ipynb”, 
 * Original energy dataset named as “energy_data.csv”
-* An output – Synthetic energy data, an excel file with annotation “Synthetic_energydata.xls” obtained from the execution of TimevariantGAN.
+* An output – Synthetic energy data, an excel file with annotation “Synthetic_energydata.csv” obtained from the execution of TimevariantGAN.
 
 To implement the code, download the energy dataset 'energy_data.csv','TimevariantGAN.ipynb' and execute using Google colab, jupyternotebook and IDE of your choice.
 
